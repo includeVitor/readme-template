@@ -37,7 +37,7 @@
     <li>
       <a href="#instalação">Instalação</a>
       <ul>
-        <li><a href="#pré-requisitos-1">Pré Requisitos</a></li>
+        <li><a href="#pré-requisitos">Pré Requisitos</a></li>
         <li><a href="#como-instalar">Como instalar</a></li>
         <li><a href="#como-desinstalar">Como desinstalar</a></li>
       </ul>
@@ -46,7 +46,7 @@
     <li>
       <a href="#build-local">Build Local</a>
       <ul>
-        <li><a href="#pré-requisitos-2">Pré Requisitos</a></li>
+        <li><a href="#pré-requisitos-1">Pré Requisitos</a></li>
         <li><a href="#como-executar">Como executar</a></li>
       </ul>
     </li>
